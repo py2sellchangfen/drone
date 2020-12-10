@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="h@192.168.8.127:22 password">
+    <serverData>
+      <paths name="h@192.168.8.127:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/h/drone" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="h@192.168.8.127:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/h/drone" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
